@@ -1,0 +1,6 @@
+{
+    "host": "localhost",
+    "database": "gestion_escolar",
+    "user": "ciso",
+    "password": "ciso"
+}
